@@ -1,0 +1,50 @@
+.new-card-box {
+  margin: 7vw 0vw 0vw 3vw;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 3vw;
+  padding: 0vw 1vw 1vw 1vw;
+  width: 70vw;
+}
+
+.new-card-base {
+  width: 15vw;
+  height: 19vw;
+}
+
+.new-card-data {
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-bottom: 5vw;
+  padding-left: 2vw;
+  padding-top: 0vw;
+}
+
+.new-card-data .new-card-title {
+  font-size: 1rem;
+  font-family: AmazonEmberFontMedium;
+}
+
+.new-card-data .new-card-stats {
+  font-size: 0.9rem;
+  font-family: AmazonEmberFontRegular;
+}
+
+.new-image-base {
+  cursor: pointer;
+  overflow: hidden;
+  filter: saturate(80%);
+  padding-left: 1.5vw;
+  margin-top: -4.5vw;
+  transition: 0.325s ease-in-out;
+}
+
+.new-image-base img {
+  object-fit: cover;
+  width: 9vw;
+  border-radius: 1vw;
+  filter: drop-shadow(0 0 4px var(--shadow-black));
+  transition: 0.5s ease-in-out;
+}

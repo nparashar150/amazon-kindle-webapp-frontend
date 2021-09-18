@@ -1,0 +1,67 @@
+.nav-base {
+  display: flex;
+  flex-direction: row;
+  gap: 1.5vw;
+  position: sticky;
+  top: 0%;
+  z-index: 3;
+  padding: 10px 0px;
+  background-color: var(--white-background);
+}
+
+.nav-brandName {
+  cursor: pointer;
+  padding: 0.3vw 1vw;
+  font-size: 1.75rem;
+  letter-spacing: -0.3mm;
+  font-weight: bold;
+  font-family: AmazonEmberFontBold;
+}
+
+.nav-brandName span {
+  color: var(--amazon-color);
+}
+
+.nav-search {
+  padding: 0.7vw 3vw;
+}
+
+.nav-search input,
+.nav-search input:hover,
+.nav-search input:focus {
+  border-radius: 1vw;
+  border: none;
+  outline: none;
+  padding: 0.5vw 4vw;
+  text-align: center;
+  transition: 0.7s;
+  background: var(--off-white);
+  filter: drop-shadow(0px 0px 3px var(--shadow-black));
+}
+
+.nav-item {
+  cursor: pointer;
+  padding: 0.5vw 0.5vw;
+  font-size: 1rem;
+}
+
+.nav-item:last-of-type {
+  padding-top: 0.9vw;
+}
+
+.nav-item sup {
+  font-size: 1rem;
+  color: var(--amazon-color);
+}
+
+.flex-end {
+  display: flex;
+  justify-content: flex-end;
+  margin-left: auto;
+}
+
+.link-black,
+.link-black:hover,
+.link-black:focus {
+  color: var(--dark-black);
+}

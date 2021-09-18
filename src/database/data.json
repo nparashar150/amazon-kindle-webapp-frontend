@@ -1,0 +1,86 @@
+[
+    {
+      "name": "Harry Potter and the Cursed Child",
+      "statspages": "133 pages",
+      "statschapter": "Chapter 13 - Last Read",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61ZgWfRAYbL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+      "link": "https://www.amazon.in/Harry-Potter-Cursed-Child-Playscript-ebook/dp/B073P9348D/"
+    },
+    {
+      "name": "The Godfather",
+      "statspages": "120 pages",
+      "statschapter": "Chaper 5",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41pSXiKR39L._SX324_BO1,204,203,200_.jpg",
+      "link": "https://www.amazon.in/Godfather-Mario-Puzo-ebook/dp/B009GJ870Q/"
+    },
+    {
+      "name": "Da Vinci Code",
+      "statspages": "220 pages",
+      "statschapter": "Chaper 20",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/51CLej1GJCL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+      "link": "https://www.amazon.in/Vinci-Code-Robert-Langdon-Book-ebook/dp/B003SHDP4K/"
+    },
+    {
+      "name": "The Psychology of Money",
+      "statspages": "100 pages",
+      "statschapter": "Chaper 10",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41cWqh0OeQL._SX321_BO1,204,203,200_.jpg",
+      "link": "https://www.amazon.in/Psychology-Money-Morgan-Housel-ebook/dp/B08FHZ5L47/"
+    },
+    {
+      "name": "The Phoenix",
+      "statspages": "210 pages",
+      "statschapter": "Chaper 23",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51N-QD-+O4L._SX325_BO1,204,203,200_.jpg",
+      "link": "https://www.amazon.in/Sidney-Sheldon-Untitled-Book-2/dp/0008229686/"
+    },
+    {
+      "name": "The Alchemist",
+      "statspages": "100 pages",
+      "statschapter": "Chaper 7",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/410llGwMZGL._SX328_BO1,204,203,200_.jpg",
+      "link": "https://www.amazon.in/Alchemist-Paulo-Written-Published-Blogger/dp/B09BFDM7KW/"
+    },
+    {
+      "name": "Black Holes",
+      "statspages": "78 pages",
+      "statschapter": "Chaper 5",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51w6EZdGCFL._SX342_BO1,204,203,200_.jpg",
+      "link": "https://www.amazon.in/Black-Holes-Lectures-Stephen-Hawking/dp/085750357X/"
+    },
+    {
+      "name": "The Theory of Everything",
+      "statspages": "200 pages",
+      "statschapter": "Chaper 8",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51oHUvYzbsL._SX327_BO1,204,203,200_.jpg",
+      "link": "https://www.amazon.in/Theory-Everything-Stephen-Hawking/dp/8179925919/"
+    },
+    {
+      "name": "Space. Life. Matter",
+      "statspages": "209 pages",
+      "statschapter": "Chaper 19",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51Yw-U-01gL._SX347_BO1,204,203,200_.jpg",
+      "link": "https://www.amazon.in/Space-Life-Matter-Coming-Science/dp/9389253799/"
+    },
+    {
+      "name": "The Secret Of The Nagas",
+      "statspages": "23 pages",
+      "statschapter": "Chaper 2",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51WKNpJG-CS._SX322_BO1,204,203,200_.jpg",
+      "link": "https://www.amazon.in/Secret-Nagas-Shiva-Trilogy-2/dp/9381626340/"
+    },
+    {
+      "name": "Life is What You Make It",
+      "statspages": "69 pages",
+      "statschapter": "Chaper 2",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41ekOc6O1ML._SX311_BO1,204,203,200_.jpg",
+      "link": "https://www.amazon.in/Life-What-Make-Preeti-Shenoy/dp/9380349300/"
+    },
+    {
+      "name": "Only the Good Die Young",
+      "statspages": "221 pages",
+      "statschapter": "Chaper 18",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51yMH6vsy2S._SX324_BO1,204,203,200_.jpg",
+      "link": "https://www.amazon.in/Only-Good-Die-Young-Saint/dp/0143450123/"
+    }
+]

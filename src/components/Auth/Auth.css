@@ -1,0 +1,110 @@
+.auth-main {
+  width: 380px;
+  height: 260px;
+  background: linear-gradient(90deg, rgba(254, 149, 50, 0.8) 0%, rgba(235,203,24,0.8) 50%, rgba(254,147,50,0.8) 100%);
+  filter: drop-shadow(0px 0px 5px var(--shadow-black));
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+.auth-main-signup {
+  height: 435px;
+}
+
+.dark {
+  cursor: pointer;
+  filter: opacity(25%) blur(4px);
+}
+
+.auth-input-box form {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.AmazonEmail,
+.AmazonPassword,
+.AmazonFirstName,
+.AmazonLastName,
+.AmazonImage {
+  color: var(--dark-black);
+  font-size: 1.05rem;
+  width: 300px;
+  height: 40px;
+  border: none;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.ButtonSubmit {
+  color: var(--dark-black);
+  font-size: 1.05rem;
+  width: 330px;
+  height: 40px;
+  border: none;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.2);
+  cursor: pointer;
+}
+
+.AmazonEmail,
+.AmazonPassword,
+.AmazonFirstName,
+.AmazonLastName,
+.AmazonImage {
+  padding: 1px 15px;
+}
+
+.AmazonEmail:hover,
+.AmazonEmail:focus,
+.AmazonPassword:hover,
+.AmazonPassword:focus,
+.ButtonSubmit:hover,
+.ButtonSubmit:focus,
+.AmazonFirstName:hover,
+.AmazonLastName:focus,
+.AmazonFirstName:focus,
+.AmazonLastName:hover,
+.AmazonImage:hover,
+.AmazonImage:focus {
+  outline: none;
+  border: none;
+}
+
+.reset,
+.notSignUp, 
+.notSignUp a{
+  color: var(--dark-blue);
+  font-size: 0.90rem;
+  text-align: center;
+  margin-top: -10px;
+  margin-bottom: -5px;
+  cursor: pointer;
+  filter: opacity(80%);
+  transition: 0.3s ease-in-out;
+  text-decoration: none;
+}
+
+.reset:hover,
+.reset:focus,
+.notSignUp:hover,
+.notSignUp:focus,
+.notSignUp a:hover,
+.notSignUp a:focus {
+  filter: opacity(100%);
+}
+
+.notSignUp {
+  margin-top: 10px;
+  margin-bottom: -15px;
+  font-size: 0.85rem;
+}

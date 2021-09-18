@@ -1,0 +1,11 @@
+.swipe-left,
+.swipe-right {
+  margin: 1vw 1vw;
+  width: 30px;
+  height: 30px;
+  border: none;
+  border-radius: 50%;
+  background: #efb85a;
+  cursor: pointer;
+  filter: drop-shadow(0px 0px 5px var(--shadow-black));
+}

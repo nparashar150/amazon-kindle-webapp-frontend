@@ -1,0 +1,69 @@
+footer {
+  position: absolute;
+  bottom: auto;
+  left: 0;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background: var(--white-background);
+  overflow: hidden;
+  filter: drop-shadow(0px -3px 5px var(--shadow-black));
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  padding: 20px 0px;
+}
+
+.back-to-top {
+  height: 9vh;
+  width: 100vw;
+  text-align: center;
+  color: var(--dark-black);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: 0.4s ease-in-out;
+  border-bottom: 1px dotted var(--shadow-black-lite);
+}
+
+.links {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 12vw;
+  color: var(--dark-black);
+  justify-items: center;
+  align-items: baseline;
+}
+
+.links ul {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 3vh;
+}
+
+.links ul li:nth-of-type(1) {
+  font-family: AmazonEmberFontBold;
+}
+
+.links ul li a {
+  color: var(--dark-black);
+  transition: 0.25s ease-in-out;
+}
+
+.footer-footer,
+.footer-footer a {
+  color: var(--dark-black);
+  font-size: 0.9rem;
+  padding: 15px 0px 0px 0px;
+  transition: 0.25s ease-in-out;
+}
+
+.links ul li a:hover,
+.links ul li a:focus,
+.footer-footer a:hover,
+.footer-footer a:focus {
+  color: var(--amazon-color);
+}

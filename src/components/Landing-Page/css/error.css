@@ -1,0 +1,9 @@
+.Error {
+  width: 100vw;
+  background: var(--white-background);
+  color: var(--dark-black);
+  font-size: 1.75rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,42 @@
+.page {
+  padding: 3vw 10vw;
+  font-size: 0.95rem;
+}
+
+.book-stats-heading {
+  font-size: 1.07rem;
+  padding: 0 0 1.5vw 0.5vw;
+}
+
+.card-box {
+  margin: 0vw 0vw 0vw 3vw;
+  display: flex;
+  flex-direction: row;
+  overflow-x: scroll;
+  gap: 3vw;
+  padding: 0vw 1vw 1vw 1vw;
+  width: 70vw;
+} 
+
+#main {
+  display: flex;
+  flex-direction: row;
+}
+
+/* #cardBox::-webkit-scrollbar {
+  -webkit-appearance: none;
+}
+
+#cardBox::-webkit-scrollbar:horizontal,
+#cardBox::-webkit-scrollbar:vertical  {
+  height: 7px;
+}
+
+#cardBox::-webkit-scrollbar-thumb {
+  border-radius: 8px;
+  background-color: #0000004d;
+} */
+
+.new-books {
+  margin-top: 5vw;
+}

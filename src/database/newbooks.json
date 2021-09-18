@@ -1,0 +1,122 @@
+[
+  {
+    "title": "The Glass Hotel",
+    "author": "Emily St. John Mandel",
+    "pages": "320",
+    "id": "001",
+    "link": "https://www.amazon.in/Glass-Hotel-Emily-John-Mandel/dp/1509882839/ref=sr_1_2?dchild=1&keywords=the+glass+hotel&qid=1627199975&sr=8-2",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51LH2E6LjLL._SX328_BO1,204,203,200_.jpg"
+  },
+  {
+    "title": "The Book of Longings",
+    "author": "Sue Monk Kidd",
+    "pages": "432",
+    "id": "002",
+    "link": "https://www.amazon.in/Book-Longings-author-international-bestseller/dp/1472232518/ref=sr_1_3?crid=1235OJS9UJCE2&dchild=1&keywords=the+book+of+longings&qid=1627200057&sprefix=the+book+of+lon%2Caps%2C352&sr=8-3",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51xWdBDn2DL._SX324_BO1,204,203,200_.jpg"
+  },
+  {
+    "title": "Darling Rose Gold",
+    "author": "Stephanie Wrobel",
+    "pages": "320",
+    "id": "003",
+    "link": "https://www.amazon.in/Darling-Rose-Gold-Stephanie-Wrobel/dp/0593100069/ref=sr_1_1?dchild=1&keywords=darling+rose+gold&qid=1627200125&s=books&sr=1-1",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51A0nOQqRLL._SX329_BO1,204,203,200_.jpg"
+  },
+  {
+    "title": "My Dark Vanessa",
+    "author": "Kate Elizabeth Russell",
+    "pages": "384",
+    "id": "004",
+    "link": "https://www.amazon.in/My-Dark-Vanessa-Biggest-Debut/dp/0008342253/ref=sr_1_1?dchild=1&keywords=my+dark+vanessa&qid=1627200149&sr=8-1",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41N9nr36rjL._SX321_BO1,204,203,200_.jpg"
+  },
+  {
+    "title": "Weather",
+    "author": "Jenny Offill",
+    "pages": "256",
+    "id": "005",
+    "link": "https://www.amazon.in/Weather-Jenny-Offill/dp/1783784768/ref=sr_1_6?dchild=1&keywords=weather&qid=1627200234&sr=8-6",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51ur-9fQPNL._SX322_BO1,204,203,200_.jpg"
+  },
+  {
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "pages": "496",
+    "id": "006",
+    "link": "https://www.amazon.in/Project-Hail-Mary-bestselling-Martian/dp/1529100623?ref_=Oct_s9_apbd_onr_hd_bw_b1RCr7P&pf_rd_r=2VF4JSKXCQEZW17CD7C1&pf_rd_p=13a10259-ae9a-5709-9868-7bae2b65f178&pf_rd_s=merchandised-search-10&pf_rd_t=BROWSE&pf_rd_i=1318158031",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41+x1-myqbS._SX323_BO1,204,203,200_.jpg"
+  },
+  {
+    "title": "The Therapist",
+    "author": "B A Paris",
+    "pages": "232",
+    "id": "007",
+    "link": "https://www.amazon.in/dp/0008493081/ref=sspa_dk_detail_1?psc=1&pd_rd_i=0008493081p13NParams&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzOEdBWEkyMzJSOUgyJmVuY3J5cHRlZElkPUEwNTQyMjYwMU1SWUtFWVFCTEhXRSZlbmNyeXB0ZWRBZElkPUEwNzY4MDU0MzdUV0hGUUVZTFM3QyZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41zL-+HPrOL._SX358_BO1,204,203,200_.jpg"
+  },
+  {
+    "title": "The End of Men",
+    "author": "Christina Sweeney-Baird",
+    "pages": "416",
+    "id": "008",
+    "link": "https://www.amazon.in/End-Men-must-read-everyones-talking/dp/000848600X/ref=pd_sim_7/260-2402575-7447940?pd_rd_w=uuzet&pf_rd_p=875eb91f-f332-4a18-907e-b9a7d369d449&pf_rd_r=AFEW17NN2E0WBQW3Z368&pd_rd_r=2b4da948-9a89-4c45-bd1b-b97b16b1c0c0&pd_rd_wg=of3cK&pd_rd_i=000848600X&psc=1",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41OaHjIpWSS._SX321_BO1,204,203,200_.jpg"
+  },
+  {
+    "title": "The Andromeda Evolution",
+    "author": "Daniel H.W.M. Crichton",
+    "pages": "400",
+    "id": "009",
+    "link": "https://www.amazon.in/Andromeda-Evolution-Daniel-Michael-Crichton/dp/0008389586/ref=pd_sbs_6/260-2402575-7447940?pd_rd_w=TTh9i&pf_rd_p=18688541-e961-44b9-b86a-bd9b8fa83027&pf_rd_r=6GDSFXV0HKRBGVM06WM4&pd_rd_r=25748009-eff3-405e-a711-2aea87951e1d&pd_rd_wg=k9BZn&pd_rd_i=0008389586&psc=1",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41dcsPOe4DL._SX330_BO1,204,203,200_.jpg"
+  },
+  {
+    "title": "Genesis",
+    "author": "Robin Cook",
+    "pages": "400",
+    "id": "010",
+    "link": "https://www.amazon.in/Genesis-Jack-Stapleton-Laurie-Montgomery/dp/1529019125/ref=pd_sim_10/260-2402575-7447940?pd_rd_w=v44GO&pf_rd_p=875eb91f-f332-4a18-907e-b9a7d369d449&pf_rd_r=311EGMYTXXXG6FRM7QJC&pd_rd_r=0988246d-df03-49be-b727-6c48dcf79252&pd_rd_wg=e8XnG&pd_rd_i=1529019125&psc=1",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41uznBR7QmL._SX323_BO1,204,203,200_.jpg"
+  },
+  {
+    "title": "Interpreter of Maladies",
+    "author": "Lahiri",
+    "pages": "208",
+    "id": "011",
+    "link": "https://www.amazon.in/dp/817223502X/ref=sspa_dk_detail_3?psc=1&pd_rd_i=817223502Xp13NParams&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFDWkRSRUFSM1NFRFQmZW5jcnlwdGVkSWQ9QTAwODk3MDAzSlRXOVJEN1AwMFI4JmVuY3J5cHRlZEFkSWQ9QTAyMTE1NTAyTjlYSlEzSlkwQVAyJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51F8is5SxGL._SX329_BO1,204,203,200_.jpg"
+  },
+  {
+    "title": "God of Small Things",
+    "author": "Arundhati Roy",
+    "pages": "356",
+    "id": "012",
+    "link": "https://www.amazon.in/God-Small-Things-Booker-Winner/dp/014302857X/ref=pd_sim_10/260-2402575-7447940?pd_rd_w=epSle&pf_rd_p=875eb91f-f332-4a18-907e-b9a7d369d449&pf_rd_r=TX12BS0DEBYVNCFC7TX2&pd_rd_r=e5a605c4-2954-4e1c-b5d2-90450c173691&pd_rd_wg=h0YXI&pd_rd_i=014302857X&psc=1",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41jFJcgRRtL._SX326_BO1,204,203,200_.jpg"
+  },
+  {
+    "title": "The Inheritance of Loss",
+    "author": "Kiran Desai",
+    "pages": "336",
+    "id": "013",
+    "link": "https://www.amazon.in/Inheritance-Loss-Kiran-Desai/dp/0143423908/ref=pd_sbs_5/260-2402575-7447940?pd_rd_w=ueS21&pf_rd_p=18688541-e961-44b9-b86a-bd9b8fa83027&pf_rd_r=TXZSN09BN6QH9NJ3Y3A1&pd_rd_r=c862c056-facc-4da0-937a-f1cc2fbdc74e&pd_rd_wg=kwxqG&pd_rd_i=0143423908&psc=1",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41JXB6zqrXL._SX324_BO1,204,203,200_.jpg"
+  },
+  {
+    "title": "The Glass Palace",
+    "author": "Amitav Ghosh",
+    "pages": "560",
+    "id": "014",
+    "link": "https://www.amazon.in/Glass-Palace-Amitav-Ghosh/dp/0008279489/ref=pd_sim_14/260-2402575-7447940?pd_rd_w=EmbOl&pf_rd_p=875eb91f-f332-4a18-907e-b9a7d369d449&pf_rd_r=NR9ABQBGN3X4QS8WEHEX&pd_rd_r=9143c717-7bf5-4655-afed-e1f387703628&pd_rd_wg=lnIUp&pd_rd_i=0008279489&psc=1",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51rnn61T2TL._SX322_BO1,204,203,200_.jpg"
+  },
+  {
+    "title": "The Illuminated",
+    "author": "Anindita Ghose",
+    "pages": "312",
+    "id": "015",
+    "link": "https://www.amazon.in/dp/9354227252/ref=sspa_dk_detail_2?psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFGVlhTTVRCVEIxNjQmZW5jcnlwdGVkSWQ9QTA0OTY5ODQyRkxOUDgxRTZQNTNBJmVuY3J5cHRlZEFkSWQ9QTAxMDY0NzEyUDZFWUdNRVJYTDhGJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41HpU3PBslS._SX327_BO1,204,203,200_.jpg"
+  }
+]

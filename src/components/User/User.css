@@ -1,0 +1,36 @@
+.user-box {
+  cursor: pointer;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 0.5vw;
+  width: 180px;
+  height: 150px;
+  overflow: hidden;
+  background: var(--user-data-bg);
+  border-radius: 10%;
+  position: absolute;
+  top: 35%;
+  left: -4%;
+  transform: translate(-50%,-50%);
+  filter: drop-shadow(0px 0px 4px var(--shadow-black));
+  transition: 0.7s ease-in-out;
+}
+
+.user-box:hover,
+.user-box:focus {
+  left: 4%;
+  background: var(--white-background);
+}
+
+.user-data-info,
+.user-data-info:hover,
+.user-data-info:focus {
+  font-family: AmazonEmberFontRegular;
+  font-size: 1.05rem;
+  margin: 0vw 0vw 0vw 2.3vw;
+  filter: drop-shadow(0px 0px 2px var(--shadow-black));
+  color: var(--dark-black);
+}

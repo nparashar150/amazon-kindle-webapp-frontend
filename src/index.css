@@ -1,0 +1,58 @@
+@font-face {
+  font-family: AmazonEmberFontMedium;
+  src: url(./fonts/Ember/Amazon-Ember-Medium.ttf);
+}
+@font-face {
+  font-family: AmazonEmberFontBold;
+  src: url(./fonts/Ember/AmazonEmber_Bd.ttf);
+}
+@font-face {
+  font-family: AmazonEmberFontRegular;
+  src: url(./fonts/Ember/AmazonEmber_Rg.ttf);
+}
+@font-face {
+  font-family: AmazonEmberFontThin;
+  src: url(./fonts/Ember/AmazonEmber_Th.ttf);
+}
+
+::-moz-selection {
+  color: var(--white-background);
+  background: var(--amazon-color);
+}
+
+::selection {
+  color: var(--white-background);
+  background: var(--amazon-color);
+}
+
+:root {
+  --dark-black: #2A2A2A;
+  --white-background: #EFEFEF;
+  --off-white: hsl(42, 50%, 95%);
+  --amazon-color: #FFB300;
+  --amazon-color-lite: #ffb916;
+  --amazon-color-lite-2: #fcc034;
+  --shadow-black: #00000050;
+  --shadow-black-lite: #00000025;
+  --user-data-bg: #EAEAEA;
+  --dark-blue: #051032;
+}
+
+body {
+  font-family: AmazonEmberFontRegular;
+  margin: 0;
+  padding: 0;
+  margin: 2vw 3vw;
+  background-color: var(--white-background);
+  width: 90vw;
+  overflow-x: hidden;
+}
+
+body * {
+  list-style: none;
+  text-decoration: none;
+}
+
+input:focus::placeholder {
+  color: transparent;
+}
